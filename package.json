@@ -9,6 +9,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "release": "standard-version"
+
+    
   },
   "private": true,
   "dependencies": {
