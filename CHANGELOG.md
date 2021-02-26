@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/BrayantGB14/test/compare/v2.1.1...v3.0.0) (2021-02-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop for support
+
+* drop for support ([e4c1d86](https://github.com/BrayantGB14/test/commit/e4c1d8642263a5ffed7ce4e3515ee786551387e9))
+
 ### [2.1.1](https://github.com/BrayantGB14/test/compare/v2.1.0...v2.1.1) (2021-02-25)
 
 
