@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.0.0](https://github.com/BrayantGB14/test/compare/v6.0.0...v7.0.0) (2021-03-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* test commit
+
+### Bug Fixes
+
+* test commit ([0f761c6](https://github.com/BrayantGB14/test/commit/0f761c661381759a94af2dac1194e614f8a7e3b2))
+
 ## [6.0.0](https://github.com/BrayantGB14/test/compare/v5.0.0...v6.0.0) (2021-03-05)
 
 
