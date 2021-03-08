@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [9.0.0](https://github.com/BrayantGB14/test/compare/v8.0.0...v9.0.0) (2021-03-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* **bgb:** add second commit
+
+### Features
+
+* **bgb:** add commit ([40bd2c3](https://github.com/BrayantGB14/test/commit/40bd2c39665001251d99e7054d98bdd1dd3664c1))
+
 ## [8.0.0](https://github.com/BrayantGB14/test/compare/v7.2.0...v8.0.0) (2021-03-08)
 
 
