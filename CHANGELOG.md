@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.2.0](https://github.com/BrayantGB14/test/compare/v7.1.0...v7.2.0) (2021-03-08)
+
+
+### Features
+
+* add commit /r/n BREAKING CHANGE: add commit ([21f582a](https://github.com/BrayantGB14/test/commit/21f582ac20512ab16840b6a5844b5c64f514ad5e))
+
 ## [7.1.0](https://github.com/BrayantGB14/test/compare/v7.0.1...v7.1.0) (2021-03-08)
 
 
