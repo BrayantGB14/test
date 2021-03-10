@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [11.0.0](https://github.com/BrayantGB14/test/compare/v10.3.0...v11.0.0) (2021-03-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* now the result might not contain all posts
+
+### Features
+
+* add pagination to the posts endpoint ([27aa745](https://github.com/BrayantGB14/test/commit/27aa74548933c6a8d218068d6a2e17a7427cc24b))
+
 ## [10.3.0](https://github.com/BrayantGB14/test/compare/v10.2.1...v10.3.0) (2021-03-10)
 
 
