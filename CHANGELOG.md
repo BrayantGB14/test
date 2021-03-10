@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [10.2.0](https://github.com/BrayantGB14/test/compare/v10.1.4...v10.2.0) (2021-03-10)
+
+
+### Features
+
+* NEX VERSIONING ([95ebaf6](https://github.com/BrayantGB14/test/commit/95ebaf6a3f9f53b042b7b48b83dab24432b7cf1a))
+
 ### [10.1.4](https://github.com/BrayantGB14/test/compare/v10.1.3...v10.1.4) (2021-03-10)
 
 
