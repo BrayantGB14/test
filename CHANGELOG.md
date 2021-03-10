@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [10.2.1](https://github.com/BrayantGB14/test/compare/v10.2.0...v10.2.1) (2021-03-10)
+
+
+### Bug Fixes
+
+* SECOND NEW VERSION ([f4799fa](https://github.com/BrayantGB14/test/commit/f4799fa229c9a6cd260117daee6ce471b52d12e5))
+
 ## [10.2.0](https://github.com/BrayantGB14/test/compare/v10.1.4...v10.2.0) (2021-03-10)
 
 
