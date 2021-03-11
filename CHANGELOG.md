@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [12.1.0](https://github.com/BrayantGB14/test/compare/v12.0.0...v12.1.0) (2021-03-11)
+
+
+### Features
+
+* descriptionJiraTarea [#10](https://github.com/BrayantGB14/test/issues/10) from BrayantGB14/feature/dev/versioning ([192a377](https://github.com/BrayantGB14/test/commit/192a37715edde2a478ea00f4ac21758ac7ce9cc6))
+
 ## [12.0.0](https://github.com/BrayantGB14/test/compare/v11.0.0...v12.0.0) (2021-03-10)
 
 
