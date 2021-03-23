@@ -1,14 +1,17 @@
 {
   "name": "test",
-  "version": "10.1.4",
+  "version": "12.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "prebuild": "npm run release",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "release": "standard-version"
+    "release": "standard-version",
+    "release:tags": "git push --follow-tags origin main",
+    "postrelease": "npm run release:tags"
   },
   "private": true,
   "dependencies": {
