@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [12.2.0](https://github.com/BrayantGB14/test/compare/v12.1.1...v12.2.0) (2021-03-23)
+
+
+### Features
+
+* [#11](https://github.com/BrayantGB14/test/issues/11) from BrayantGB14/feature/dev/lab ([c96e42f](https://github.com/BrayantGB14/test/commit/c96e42f70d3c980f1d569c378bd90fe651df79c8))
+* [#12](https://github.com/BrayantGB14/test/issues/12) from BrayantGB14/feature/dev/versioning ([906a1f9](https://github.com/BrayantGB14/test/commit/906a1f9db999768e7f0c8358245f734fae3d8f42))
+
 ### [12.1.1](https://github.com/BrayantGB14/test/compare/v12.1.0...v12.1.1) (2021-03-23)
 
 ## [12.1.0](https://github.com/BrayantGB14/test/compare/v12.0.0...v12.1.0) (2021-03-11)
