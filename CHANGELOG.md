@@ -2,6 +2,54 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [12.1.0](https://github.com/BrayantGB14/test/compare/v12.0.0...v12.1.0) (2021-03-11)
+
+
+### Features
+
+* descriptionJiraTarea [#10](https://github.com/BrayantGB14/test/issues/10) from BrayantGB14/feature/dev/versioning ([192a377](https://github.com/BrayantGB14/test/commit/192a37715edde2a478ea00f4ac21758ac7ce9cc6))
+
+## [12.0.0](https://github.com/BrayantGB14/test/compare/v11.0.0...v12.0.0) (2021-03-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* modified version
+
+* versioning ([8ae77c8](https://github.com/BrayantGB14/test/commit/8ae77c845eb36c49bbed04c9e0b36d54d19a7996))
+
+## [11.0.0](https://github.com/BrayantGB14/test/compare/v10.3.0...v11.0.0) (2021-03-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* now the result might not contain all posts
+
+### Features
+
+* add pagination to the posts endpoint ([27aa745](https://github.com/BrayantGB14/test/commit/27aa74548933c6a8d218068d6a2e17a7427cc24b))
+
+## [10.3.0](https://github.com/BrayantGB14/test/compare/v10.2.1...v10.3.0) (2021-03-10)
+
+
+### Features
+
+* add pagination to the posts endpoint   BREAKING CHANGE: now the result might not contain all posts ([b0b514b](https://github.com/BrayantGB14/test/commit/b0b514bb14ca9f4e777536f18e487e4ed9c7ce27))
+
+### [10.2.1](https://github.com/BrayantGB14/test/compare/v10.2.0...v10.2.1) (2021-03-10)
+
+
+### Bug Fixes
+
+* SECOND NEW VERSION ([f4799fa](https://github.com/BrayantGB14/test/commit/f4799fa229c9a6cd260117daee6ce471b52d12e5))
+
+## [10.2.0](https://github.com/BrayantGB14/test/compare/v10.1.4...v10.2.0) (2021-03-10)
+
+
+### Features
+
+* NEX VERSIONING ([95ebaf6](https://github.com/BrayantGB14/test/commit/95ebaf6a3f9f53b042b7b48b83dab24432b7cf1a))
+
 ### [10.1.4](https://github.com/BrayantGB14/test/compare/v10.1.3...v10.1.4) (2021-03-10)
 
 
